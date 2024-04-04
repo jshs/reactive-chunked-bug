@@ -5,7 +5,7 @@ Tomcat + reactive servlet + chunked transfer encoding.
 ## Run
 
 ```shell
-gradle test --rerun-tasks
+gradle test --rerun
 ```
 
 ## Expected outcome
